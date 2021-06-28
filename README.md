@@ -1,5 +1,3 @@
-![successful-launches1960-1980](https://user-images.githubusercontent.com/28760237/123567449-2de24c80-d790-11eb-86e6-b99a882e58da.png)
-![successful-launches1960-1980](https://user-images.githubusercontent.com/28760237/123567460-32a70080-d790-11eb-99bc-14a92d34fb31.png)
 # GT Project 2
 
 This project showcases an interactive website that displays global space launch data from 1957-August 2020 that was obtained from Kaggle (https://www.kaggle.com/davidroberts13/one-small-step-for-data). We used a Python Flask-powered API with HTML/CSS, JavaScript, and SQL to complete this project.
@@ -18,8 +16,6 @@ The visualization 1 page uses Plotly to display two interactive charts. The firs
 
 The visualization 2 page uses Plotly to display several interactive charts. The first chart contains two trendlines: one for privately funded launches and one for state-funded launches. Total launches for each year are shown across the years from 1957 to 2020. This chart can be filtered by two dropdown menus: one allows the user to select a country of interest and one allows the user to select whether the missions were successful or failures. Additionally, there are two buttons next to the dropdown menus. Upon clicking the first button, a bar graph will appear that displays the top countries leading the space race between 1960-1980. Upon clicking the second button, a second bar graph will appear that displays the countries leading the space race from 2010-2020.
 
- ![Plotly.image.png](static/images/successful-launches1960-1980.png)
- ![successful-launches1960-1980](https://user-images.githubusercontent.com/28760237/123567472-3b97d200-d790-11eb-96ab-486b3eb13cdd.png)
+![successful-launches1960-1980](https://user-images.githubusercontent.com/28760237/123567472-3b97d200-d790-11eb-96ab-486b3eb13cdd.png)
 
- 
- ![Plotly.image.png](static/images/succellful-launches2010-2020.png)
+![succellful-launches2010-2020](https://user-images.githubusercontent.com/28760237/123567564-726de800-d790-11eb-8406-8be59496ef5d.png)
