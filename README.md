@@ -4,6 +4,8 @@ This project showcases an interactive website that displays global space launch 
 
 ![Launch.image.png](static/images/Launch.jpg)
 
+![index-html-image](https://user-images.githubusercontent.com/28760237/123567673-b9f47400-d790-11eb-84dc-effe8dcc7355.png)
+
 The maps page uses Leaflet to display an interactive global map with markers for each spot in the world where space launches have occurred. Upon clicking any marker, a pop-up will display the name of the launch facility, the country of launch, and a total number of launches from that site broken down by successes and failures. 
 
 ![LaunchMap.image.png](static/images/fullsizemapd.png)
